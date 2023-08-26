@@ -10,7 +10,7 @@
 
 
 <h1> ✍ Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,php,html,css,js,nodejs,vscode,discord&theme=dark" />
 
 <h1> :chart_with_upwards_trend: My stats </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=bladeqwe&show_icons=true&theme=dark" />
